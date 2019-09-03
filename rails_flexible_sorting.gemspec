@@ -3,13 +3,13 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |spec|
   spec.name          = "rails_flexible_sorting"
-  spec.version       = "1.0.1"
+  spec.version       = "1.0.2"
   spec.authors       = ["Marcin Brysz"]
   spec.email         = ["bryszmarcin@gmail.com"]
 
   spec.summary       = %q{Allow easy sorting tables tables in rails}
   spec.description   = %q{Allow easy sorting tables tables in rails}
-  spec.homepage      = "https://rubygems.org/gems/rails_flexible_sorting"
+  spec.homepage      = "https://github.com/Marcin81/rails_flexible_sorting"
   spec.license       = "MIT"
   spec.metadata["homepage_uri"] = spec.homepage
 
