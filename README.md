@@ -60,7 +60,7 @@ and change how you want.
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/madmax/sortable-for-rails. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/Marcin81/rails_flexible_sorting. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 ## License
 
